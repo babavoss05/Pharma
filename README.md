@@ -391,7 +391,8 @@ Publish the website in the LocalHost.
 ### home screen:
 ![alt text](homepage.png)<br>
 ### about screen:
-![alt text](<about page.png>)<br>
+![image](https://github.com/babavoss05/Pharma/assets/103019882/014d0ccb-fe77-4c94-b92b-d6e6c4232f15)
+
 ### products page:
 ![alt text](<products page.png>)<br>
 ### contact page:
